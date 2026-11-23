@@ -372,8 +372,8 @@ export default function Home() {
             </p>
 
             <p className="mt-4">
-              © {new Date().getFullYear()} Akas Enterprises.
-              All rights reserved.
+              © {new Date().getFullYear()} © 2026 Akas Enterprises.
+All rights reserved.
             </p>
 
           </div>
